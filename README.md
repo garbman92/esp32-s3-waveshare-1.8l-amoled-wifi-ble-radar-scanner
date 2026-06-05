@@ -2,6 +2,9 @@
 
 Firmware for the **OmegaX Wireless Field Scanner** running on the **Waveshare ESP32-S3 Touch AMOLED 1.8** board.
 
+waveshare website
+https://www.waveshare.com/esp32-s3-touch-amoled-1.8.htm?srsltid=AfmBOoqAV8EL6da7DHajWw4WF7Eq2ofF3AlB5oQOQ8UK9UE3Djvfas97
+
 This project turns the ESP32-S3 AMOLED board into a portable wireless field scanner with:
 
 * Wi-Fi scanning
