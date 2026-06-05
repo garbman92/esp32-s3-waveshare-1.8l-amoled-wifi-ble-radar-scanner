@@ -23,8 +23,8 @@ The Waveshare ESP32-S3 Touch AMOLED 1.8 supports Arduino IDE development, which 
 Your Arduino sketch folder should contain these files:
 
 ```text
-OmegaX_Wireless_Field_Scanner_v1_3_ModeRadar/
-├── OmegaX_Wireless_Field_Scanner_v1_3_ModeRadar.ino
+OmegaX_Wireless_Field_Scanner_v1_1_ModeRadar/
+├── OmegaX_Wireless_Field_Scanner_v1_1_ModeRadar.ino
 └── pin_config.h
 ```
 
@@ -33,13 +33,13 @@ Important: the folder name should match the `.ino` file name.
 Example:
 
 ```text
-OmegaX_Wireless_Field_Scanner_v1_3_ModeRadar
+OmegaX_Wireless_Field_Scanner_v1_1_ModeRadar
 ```
 
 Inside that folder, place:
 
 ```text
-OmegaX_Wireless_Field_Scanner_v1_3_ModeRadar.ino
+OmegaX_Wireless_Field_Scanner_v1_1_ModeRadar.ino
 pin_config.h
 ```
 
